@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f0de28f-288b-4bbd-915e-5e0210a3c029" name="Changes" comment="자료형">
-      <change afterPath="$PROJECT_DIR$/src/chap_01/_02_Variables.java" afterDir="false" />
+    <list default="true" id="5f0de28f-288b-4bbd-915e-5e0210a3c029" name="Changes" comment="변수">
+      <change afterPath="$PROJECT_DIR$/src/chap_01/_Quiz_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWorkspace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaWorkspace_quiz.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_01/_01_DataTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap_01/_02_Variables.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +51,39 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="_Quiz_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap_01._Quiz_01" />
+      <module name="JavaWorkspace_quiz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chap_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="JavaWorkspace_quiz" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="JavaWorkspace_quiz" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application._Quiz_01" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680247466635</updated>
-      <workItem from="1680247467917" duration="1747000" />
+      <workItem from="1680247467917" duration="3134000" />
     </task>
     <task id="LOCAL-00001" summary="자료형">
       <created>1680248822681</created>
@@ -64,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680248822681</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="변수">
+      <created>1680249568899</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680249568899</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,6 +116,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="자료형" />
-    <option name="LAST_COMMIT_MESSAGE" value="자료형" />
+    <MESSAGE value="변수" />
+    <option name="LAST_COMMIT_MESSAGE" value="변수" />
   </component>
 </project>
